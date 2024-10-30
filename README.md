@@ -137,4 +137,4 @@ main.scss
 
 ## Acknowledgments
 
-- [Jonas schmedtmann](https://github.com/jonasschmedtmann)
+[Jonas schmedtmann](https://github.com/jonasschmedtmann)
