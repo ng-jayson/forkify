@@ -80,7 +80,7 @@ Forkify is a recipe web app using the [Forkify API](https://forkify-api.herokuap
 
 ---
 
-```
+
 
 #### Tree structure
 
@@ -138,4 +138,3 @@ main.scss
 ## Acknowledgments
 
 - [Jonas schmedtmann](https://github.com/jonasschmedtmann)
-```
